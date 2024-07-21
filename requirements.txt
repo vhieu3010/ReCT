@@ -1,0 +1,11 @@
+numpy==1.26.4
+pillow
+unfoldNd
+torchinfo
+matplotlib
+setuptools==69.5.1
+
+-f https://download.pytorch.org/whl/cu118/torch_stable.html
+torch
+torchvision
+torchaudio
